@@ -1,9 +1,9 @@
 # IDENTI-FACE
 
 Our Team: 
-      My self - Krishnachand
-      Ajay
-      Bala Murali
+      My self - Krishnachand,
+      Ajay,
+      Bala Murali.
 
 First delete the dataset what is inside in the dataset folder
   and run the 
